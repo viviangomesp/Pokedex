@@ -1,4 +1,4 @@
-# 📘 Pokédex
+# Pokédex
 
 ![Banner da Pokédex](https://github.com/viviangomesp/Pokedex/blob/main/Banners%20-%20GitHub%20(%40viviangomesp).png)
 
